@@ -1,0 +1,13 @@
+{
+  "name": "mjml-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mjml": "^4.1.1"
+  }
+}
